@@ -10,6 +10,3 @@ This repository contains a data analysis project exploring World Happiness data 
   - Explore correlations using Pearson’s correlation coefficient and compute R² values.
   - Visualize relationships using scatter plots and regression lines for different years.
   - Compare the effect of including/excluding a specific year (e.g., 2023) on the overall correlation.
-
-## Repository Structure
-
